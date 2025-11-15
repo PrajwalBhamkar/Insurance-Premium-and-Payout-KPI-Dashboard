@@ -1,4 +1,4 @@
-# 🧾 Insurance Performance Insights Dashboard
+# 🧾 Insurance Performance Insights Dashboard 
 
 *A comprehensive, interactive Power BI dashboard developed for True Secure Credit Insurance to analyze the insurance policy lifecycle, financial performance amounts from 2015 to 2025.*
 
