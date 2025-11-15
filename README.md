@@ -153,4 +153,4 @@ This dashboard enables True Secure Credit Insurance to make **data-driven decisi
 ---
 
 ## 📊 Dashboard Overview
-
+https://github.com/PrajwalBhamkar/Insurance-Premium-and-Payout-KPI-Dashboard/blob/main/Dashboard-snapshot.png
